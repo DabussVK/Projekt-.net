@@ -12,7 +12,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.MapGet("/products", (string? name, ProductService service) => {
-    // Walidacja danych wej�ciowych
+    // Walidacja danych wejÅ›ciowych
     if (name is { Length: < 3 })
         return Results.BadRequest("Wpisz co najmiej 3 znaki");
 
@@ -21,3 +21,6 @@ app.MapGet("/products", (string? name, ProductService service) => {
 });
 
 app.Run();
+
+// Make the implicit Program class public so test projects can access it
+public partial class Program { }

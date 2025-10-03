@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestPlatform.TestHost;
+﻿using Microsoft.AspNetCore.Mvc.Testing;
+using ProductCatalog.Models;
 using System.Net;
 using System.Net.Http.Json;
 
@@ -45,7 +46,8 @@ public class ProductsApiTests : IClassFixture<WebApplicationFactory<Program>>
 
         response.EnsureSuccessStatusCode(); // Status 200 OK
         var products = await response.Content.ReadFromJsonAsync<Product[]>();
+        Assert.NotNull(products); // Sprawdzenie, czy products nie jest null
         Assert.Single(products); // Jeden produkt pasuje
-        Assert.Equal("Laptop", products![0].Name); // Sprawdzenie, czy to "Laptop"
+        Assert.Equal("Laptop", products[0].Name); // Sprawdzenie, czy to "Laptop"
     }
 }

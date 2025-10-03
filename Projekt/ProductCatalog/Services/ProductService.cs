@@ -10,21 +10,13 @@ public class ProductService
         new Product { Id = 3, Name = "Myszka", Price = 120 }
     };
 
-    public IEnumerable<Product> GetAll(Product p, string? nameFilter = null)
+    public IEnumerable<Product> GetAll(string? nameFilter = null)
     {
         if (string.IsNullOrWhiteSpace(nameFilter))
             return _products;
 
         return _products
-            .Where(predicate: p =>
-            {
-                return p.Name.Contains(nameFilter, StringComparison.OrdinalIgnoreCase);
-            });
-    }
-
-    internal IEnumerable<Product>? GetAll(string name)
-    {
-        throw new NotImplementedException();
+            .Where(p => p.Name.Contains(nameFilter, StringComparison.OrdinalIgnoreCase));
     }
 }
 
