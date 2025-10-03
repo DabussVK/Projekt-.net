@@ -1,0 +1,5 @@
+C:\Users\cygan\source\repos\ProductCatalog.Tests\obj\Debug\net8.0\ProductCatalog.Tests.csproj.AssemblyReference.cache
+C:\Users\cygan\source\repos\ProductCatalog.Tests\obj\Debug\net8.0\ProductCatalog.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cygan\source\repos\ProductCatalog.Tests\obj\Debug\net8.0\ProductCatalog.Tests.AssemblyInfoInputs.cache
+C:\Users\cygan\source\repos\ProductCatalog.Tests\obj\Debug\net8.0\ProductCatalog.Tests.AssemblyInfo.cs
+C:\Users\cygan\source\repos\ProductCatalog.Tests\obj\Debug\net8.0\ProductCatalog.Tests.csproj.CoreCompileInputs.cache

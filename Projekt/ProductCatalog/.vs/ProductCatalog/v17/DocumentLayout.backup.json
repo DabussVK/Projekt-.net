@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A13B6C6-144F-4CBA-9A43-035DD99261F9}|..\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj|c:\\users\\cygan\\source\\repos\\productcatalog.tests\\productsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A13B6C6-144F-4CBA-9A43-035DD99261F9}|..\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj|c:\\users\\cygan\\source\\repos\\productcatalog.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|c:\\users\\cygan\\source\\repos\\productcatalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|c:\\users\\cygan\\source\\repos\\productcatalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|c:\\users\\cygan\\source\\repos\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A2F52E-34EE-4CA6-AFCA-D9D53AE0C7D6}|Productcatalog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\cygan\\source\\repos\\ProductCatalog.Tests\\ProductsApiTests.cs",
+              "RelativeDocumentMoniker": "..\\ProductCatalog.Tests\\ProductsApiTests.cs",
+              "ToolTip": "C:\\Users\\cygan\\source\\repos\\ProductCatalog.Tests\\ProductsApiTests.cs",
+              "RelativeToolTip": "..\\ProductCatalog.Tests\\ProductsApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:33:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\cygan\\source\\repos\\ProductCatalog.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ProductCatalog.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\cygan\\source\\repos\\ProductCatalog.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ProductCatalog.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:32:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:25:22.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:24:16.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cygan\\source\\repos\\Productcatalog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:20:16.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
