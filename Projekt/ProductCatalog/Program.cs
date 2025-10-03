@@ -12,7 +12,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.MapGet("/products", (string? name, ProductService service) => {
-    // Walidacja danych wejściowych
+    // Walidacja danych wejÅ›ciowych
     if (name is { Length: < 3 })
         return Results.BadRequest("Wpisz co najmiej 3 znaki");
 
